@@ -1,0 +1,16 @@
+{
+  "input_dir": "input",
+  "output_dir": "output",
+  "output_filename": "joined.step",
+  "join_tolerance": 0.2,
+  "plane_angle_min_deg": 10.0,
+  "merge_coplanar": true,
+  "corner_snap": true,
+  "corner_slack": 1.6,
+  "clip_beyond_lines": true,
+  "clip_epsilon": 1e-09,
+  "dedupe_tolerance": 1e-07,
+  "collinear_sin_tolerance": 1e-08,
+  "write_report": true,
+  "units": "M"
+}

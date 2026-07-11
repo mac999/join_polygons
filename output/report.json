@@ -1,0 +1,318 @@
+{
+  "num_polygons_in": 9,
+  "num_polygons_out": 7,
+  "join_tolerance": 0.2,
+  "num_merged_groups": 2,
+  "merged_groups": [
+    {
+      "result": "floor_a#0+floor_b#0",
+      "members": [
+        "floor_a#0",
+        "floor_b#0"
+      ],
+      "dropped_holes": 0
+    },
+    {
+      "result": "wall_y0_a#0+wall_y0_b#0",
+      "members": [
+        "wall_y0_a#0",
+        "wall_y0_b#0"
+      ],
+      "dropped_holes": 0
+    }
+  ],
+  "num_adjacent_pairs": 15,
+  "pairs": [
+    {
+      "pair": [
+        "ceiling#0",
+        "wall_x0#0"
+      ],
+      "gap_to_line_before": [
+        0.0,
+        0.050451
+      ],
+      "boundary_gap_before": 0.054431,
+      "gap_to_line_after": [
+        0.0,
+        0.0
+      ],
+      "boundary_gap_after": 0.0
+    },
+    {
+      "pair": [
+        "ceiling#0",
+        "wall_x6#0"
+      ],
+      "gap_to_line_before": [
+        0.0,
+        0.0
+      ],
+      "boundary_gap_before": 0.002254,
+      "gap_to_line_after": [
+        0.0,
+        0.0
+      ],
+      "boundary_gap_after": 0.0
+    },
+    {
+      "pair": [
+        "ceiling#0",
+        "wall_y0_a#0+wall_y0_b#0"
+      ],
+      "gap_to_line_before": [
+        0.0,
+        0.0
+      ],
+      "boundary_gap_before": 0.008314,
+      "gap_to_line_after": [
+        0.0,
+        0.0
+      ],
+      "boundary_gap_after": 0.0
+    },
+    {
+      "pair": [
+        "ceiling#0",
+        "wall_zig_a#0"
+      ],
+      "gap_to_line_before": [
+        0.0,
+        0.014767
+      ],
+      "boundary_gap_before": 0.017724,
+      "gap_to_line_after": [
+        0.0,
+        0.0
+      ],
+      "boundary_gap_after": 0.0
+    },
+    {
+      "pair": [
+        "ceiling#0",
+        "wall_zig_b#0"
+      ],
+      "gap_to_line_before": [
+        0.0,
+        0.056664
+      ],
+      "boundary_gap_before": 0.058516,
+      "gap_to_line_after": [
+        0.0,
+        0.0
+      ],
+      "boundary_gap_after": 0.0
+    },
+    {
+      "pair": [
+        "floor_a#0+floor_b#0",
+        "wall_x0#0"
+      ],
+      "gap_to_line_before": [
+        0.016019,
+        0.059751
+      ],
+      "boundary_gap_before": 0.061875,
+      "gap_to_line_after": [
+        0.0,
+        0.0
+      ],
+      "boundary_gap_after": 0.0
+    },
+    {
+      "pair": [
+        "floor_a#0+floor_b#0",
+        "wall_x6#0"
+      ],
+      "gap_to_line_before": [
+        0.006344,
+        0.0
+      ],
+      "boundary_gap_before": 0.01508,
+      "gap_to_line_after": [
+        0.0,
+        0.0
+      ],
+      "boundary_gap_after": 0.0
+    },
+    {
+      "pair": [
+        "floor_a#0+floor_b#0",
+        "wall_y0_a#0+wall_y0_b#0"
+      ],
+      "gap_to_line_before": [
+        0.006581,
+        0.0
+      ],
+      "boundary_gap_before": 0.00814,
+      "gap_to_line_after": [
+        0.0,
+        0.0
+      ],
+      "boundary_gap_after": 0.0
+    },
+    {
+      "pair": [
+        "floor_a#0+floor_b#0",
+        "wall_zig_a#0"
+      ],
+      "gap_to_line_before": [
+        0.0,
+        0.005941
+      ],
+      "boundary_gap_before": 0.006081,
+      "gap_to_line_after": [
+        0.0,
+        0.0
+      ],
+      "boundary_gap_after": 0.0
+    },
+    {
+      "pair": [
+        "floor_a#0+floor_b#0",
+        "wall_zig_b#0"
+      ],
+      "gap_to_line_before": [
+        0.0,
+        0.0
+      ],
+      "boundary_gap_before": 0.007292,
+      "gap_to_line_after": [
+        0.0,
+        0.0
+      ],
+      "boundary_gap_after": 0.0
+    },
+    {
+      "pair": [
+        "wall_x0#0",
+        "wall_y0_a#0+wall_y0_b#0"
+      ],
+      "gap_to_line_before": [
+        0.0,
+        0.015615
+      ],
+      "boundary_gap_before": 0.015675,
+      "gap_to_line_after": [
+        0.0,
+        0.0
+      ],
+      "boundary_gap_after": 0.0
+    },
+    {
+      "pair": [
+        "wall_x0#0",
+        "wall_zig_a#0"
+      ],
+      "gap_to_line_before": [
+        0.076608,
+        0.057892
+      ],
+      "boundary_gap_before": 0.098315,
+      "gap_to_line_after": [
+        0.0,
+        0.0
+      ],
+      "boundary_gap_after": 0.0
+    },
+    {
+      "pair": [
+        "wall_x6#0",
+        "wall_y0_a#0+wall_y0_b#0"
+      ],
+      "gap_to_line_before": [
+        0.0,
+        0.0
+      ],
+      "boundary_gap_before": 0.022506,
+      "gap_to_line_after": [
+        0.0,
+        0.0
+      ],
+      "boundary_gap_after": 0.0
+    },
+    {
+      "pair": [
+        "wall_x6#0",
+        "wall_zig_b#0"
+      ],
+      "gap_to_line_before": [
+        0.0,
+        0.012994
+      ],
+      "boundary_gap_before": 0.021724,
+      "gap_to_line_after": [
+        0.0,
+        0.0
+      ],
+      "boundary_gap_after": 0.0
+    },
+    {
+      "pair": [
+        "wall_zig_a#0",
+        "wall_zig_b#0"
+      ],
+      "gap_to_line_before": [
+        0.0,
+        0.0
+      ],
+      "boundary_gap_before": 0.002184,
+      "gap_to_line_after": [
+        0.0,
+        0.0
+      ],
+      "boundary_gap_after": 0.0
+    }
+  ],
+  "polygons": [
+    {
+      "polygon": "ceiling#0",
+      "max_vertex_move": 0.131266,
+      "vertices_in": 4,
+      "vertices_inserted": 1,
+      "vertices_out": 5
+    },
+    {
+      "polygon": "floor_a#0+floor_b#0",
+      "max_vertex_move": 0.092846,
+      "vertices_in": 8,
+      "vertices_inserted": 1,
+      "vertices_out": 5
+    },
+    {
+      "polygon": "wall_x0#0",
+      "max_vertex_move": 0.099216,
+      "vertices_in": 4,
+      "vertices_inserted": 0,
+      "vertices_out": 4
+    },
+    {
+      "polygon": "wall_x6#0",
+      "max_vertex_move": 0.067073,
+      "vertices_in": 4,
+      "vertices_inserted": 0,
+      "vertices_out": 4
+    },
+    {
+      "polygon": "wall_y0_a#0+wall_y0_b#0",
+      "max_vertex_move": 0.071472,
+      "vertices_in": 8,
+      "vertices_inserted": 0,
+      "vertices_out": 4
+    },
+    {
+      "polygon": "wall_zig_a#0",
+      "max_vertex_move": 0.059963,
+      "vertices_in": 4,
+      "vertices_inserted": 0,
+      "vertices_out": 4
+    },
+    {
+      "polygon": "wall_zig_b#0",
+      "max_vertex_move": 0.098088,
+      "vertices_in": 4,
+      "vertices_inserted": 0,
+      "vertices_out": 4
+    }
+  ]
+}
