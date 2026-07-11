@@ -1,7 +1,7 @@
-# join_polygon — joining library for RANSAC planar polygons
+# join polygons — joining library for planar polygons
 
 3D planar polygons extracted from point clouds (indoor/outdoor scans) via
-RANSAC never touch exactly: scan density and noise leave gaps and overlaps
+vectorization algorithm never touch exactly: scan density and noise leave gaps and overlaps
 along adjacent boundaries. This library reconstructs geometrically exact
 contacts between polygons whose boundaries lie within a join tolerance
 (default 0.2 m), using computational-geometry operations instead of meshing.
