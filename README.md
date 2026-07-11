@@ -147,3 +147,12 @@ write_step_polygons(joined, "output/joined.step")
   per polygon); the count is reported in `merged_groups[].dropped_holes`.
 - Overshoot spikes outside the shared adjacency span are not clipped.
 - Curved surfaces are not supported (planar polygons only).
+
+# License
+MIT license
+
+# Author
+Taewook Kang, Ph.d, laputa99999@gmail.com
+
+
+
